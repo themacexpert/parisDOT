@@ -28,7 +28,7 @@ This guide contains all the links you'll need for the Remote Execution with XCM 
 - [Initiate the remote transfer transaction on the Moonbase Alpha Parachain](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fwss.api.moonbase.moonbeam.network#/extrinsics)
 
 ### Using XCMTransactor.sol
-- [Access the precompile here:](https://github.com/PureStake/moonbeam/blob/master/precompiles/xcm-transactor/XcmTransactor.sol)
+- [Access the precompile here:](https://github.com/PureStake/moonbeam/blob/c39a717e2501a3470ae589c52daaa51786189cce/precompiles/xcm-transactor/XcmTransactor.sol)
 - [Copy and paste it into remix](http://remix.ethereum.org/)
 - [Calculate the external XC-20 address](https://www.rapidtables.com/convert/number/decimal-to-hex.html)
 - [Verify the address on Moonbase Alpha Moonscan](https://moonbase.moonscan.io/)
